@@ -14,6 +14,7 @@ class App extends Component {
             </div>
           </header>
           <div className="container">
+            <h2 className="main-head">Примеры проектов</h2>
             <div className="item-list">
               {list.map(item => <Item key={item.id} data={item}/>)}
             </div>

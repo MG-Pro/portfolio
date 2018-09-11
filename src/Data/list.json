@@ -1,0 +1,69 @@
+[
+  { "id": 1,
+    "title": "Приложение для приема и обработки заказов в ресторане.",
+    "image": "cafe.png",
+    "technology": {
+      "frontend": "AngularJS, Materialize CSS",
+      "backend": "NodeJS, Express JS, Socket IO, MongoDB, Mongoose"
+    },
+    "description": "Подробное описание на Github",
+    "warning": "Backend проекта расположен на бесплатном хостинге Heroku, а он засыпает после периода неактивности. Если страница не открывается - перезагрузите пару раз и подождите",
+    "github": "https://github.com/MG-Pro/drone-cafe",
+    "demo": "https://drone-cafe-management.herokuapp.com"
+  },
+  { "id": 2,
+    "title": "Приложение для совместного обсуждения изображений",
+    "image": "pic-project.png",
+    "technology": {
+      "frontend": "JavaScript, ES6, History API, WebSocket API, Canvas"
+    },
+    "description": "В приложении возможно загружать изображения, передавать ссылку другому пользователю, рисовать, оставлять комментарии. Все изменения отображаются у всех подключенных пользователей в реальном времени.",
+    "warning": "Backend проекта расположен на бесплатном хостинге Heroku, а он засыпает после периода неактивности. Если страница не открывается - перезагрузите пару раз и подождите",
+    "github": "https://github.com/MG-Pro/js-pic-project",
+    "demo": "https://mg-pro.github.io/js-pic-project/"
+  },
+  { "id": 3,
+    "title": "Одностраничное приложение интернет-магазина обуви",
+    "image": "store.png",
+    "technology": {
+      "frontend": "React JS, React Router"
+    },
+    "description": "Проект в разработке. Полностью на React JS. Реализован роутинг.",
+    "warning": "Backend проекта расположен на бесплатном хостинге Heroku, а он засыпает после периода неактивности. Если страница не открывается - перезагрузите пару раз и подождите",
+    "github": "https://github.com/MG-Pro/react-store-project",
+    "demo": "https://mg-pro.github.io/react-store-project/"
+  },
+  { "id": 4,
+    "title": "Простое приложение погоды",
+    "image": "weather.png",
+    "technology": {
+      "frontend": "React JS, Bootstrap"
+    },
+    "description": "Определяет местоположение и показывает погоду. Можно выбрать населенный пункт.",
+    "github": "https://github.com/MG-Pro/react-project-weather",
+    "demo": "https://mg-pro.github.io/react-project-weather/"
+  },
+  { "id": 5,
+    "title": "Мячи отскакивающие от стен",
+    "image": "balls.png",
+    "technology": {
+      "frontend": "JavaScript, ES5, пример ООП"
+    },
+    "description": "Можно создать бесконечное количество мячей для сравнения производительности.",
+    "github": "https://github.com/MG-Pro/balls",
+    "demo": "https://mg-pro.github.io/balls/"
+  }
+
+]
+
+
+
+
+
+
+
+
+
+
+
+
