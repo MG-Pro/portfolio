@@ -2,7 +2,7 @@
   {
     "id": 1,
     "title": "Приложение для приема и обработки заказов в ресторане",
-    "image": "cafe.png",
+    "image": "cafe.jpg",
     "technology": {
       "frontend": "AngularJS, Materialize CSS",
       "backend": "NodeJS, Express JS, Socket IO, MongoDB, Mongoose"
@@ -15,7 +15,7 @@
   {
     "id": 2,
     "title": "Приложение для совместного обсуждения изображений",
-    "image": "pic-project.png",
+    "image": "pic-project.jpg",
     "technology": {
       "frontend": "JavaScript, ES6, History API, WebSocket API, Canvas"
     },
@@ -27,7 +27,7 @@
   {
     "id": 3,
     "title": "Одностраничное приложение интернет-магазина обуви",
-    "image": "store.png",
+    "image": "store.jpg",
     "technology": {
       "frontend": "React JS, React Router"
     },
@@ -39,7 +39,7 @@
   {
     "id": 4,
     "title": "Чат-бот",
-    "image": "bot.png",
+    "image": "bot.jpg",
     "technology": {
       "frontend": "JavaScript, JQuery, SCSS"
     },
@@ -50,7 +50,7 @@
   {
     "id": 5,
     "title": "Простое приложение погоды",
-    "image": "weather.png",
+    "image": "weather.jpg",
     "technology": {
       "frontend": "React JS, Bootstrap"
     },
@@ -61,7 +61,7 @@
   {
     "id": 6,
     "title": "Конструктор принтов для футболок",
-    "image": "tshirt.png",
+    "image": "tshirt.jpg",
     "technology": {
       "frontend": "React JS, CRA"
     },
@@ -72,7 +72,7 @@
   {
     "id": 7,
     "title": "Мячи отскакивающие от стен",
-    "image": "balls.png",
+    "image": "balls.jpg",
     "technology": {
       "frontend": "JavaScript, ES5, пример ООП"
     },
@@ -83,7 +83,7 @@
   {
     "id": 8,
     "title": "Простой калькулятор",
-    "image": "calc.png",
+    "image": "calc.jpg",
     "technology": {
       "frontend": "JavaScript"
     },
@@ -94,7 +94,7 @@
   {
     "id": 9,
     "title": "Сайт доставки пиццы и роллов",
-    "image": "sushi.png",
+    "image": "sushi.jpg",
     "technology": {
       "frontend": "OpenCart, JQuery, PHP, Flexbox"
     },
