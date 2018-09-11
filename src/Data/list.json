@@ -1,17 +1,19 @@
 [
-  { "id": 1,
-    "title": "Приложение для приема и обработки заказов в ресторане.",
+  {
+    "id": 1,
+    "title": "Приложение для приема и обработки заказов в ресторане",
     "image": "cafe.png",
     "technology": {
       "frontend": "AngularJS, Materialize CSS",
       "backend": "NodeJS, Express JS, Socket IO, MongoDB, Mongoose"
     },
-    "description": "Подробное описание на Github",
+    "description": "Бэкенд писал сам. Подробное описание на Github",
     "warning": "Backend проекта расположен на бесплатном хостинге Heroku, а он засыпает после периода неактивности. Если страница не открывается - перезагрузите пару раз и подождите",
     "github": "https://github.com/MG-Pro/drone-cafe",
     "demo": "https://drone-cafe-management.herokuapp.com"
   },
-  { "id": 2,
+  {
+    "id": 2,
     "title": "Приложение для совместного обсуждения изображений",
     "image": "pic-project.png",
     "technology": {
@@ -22,7 +24,8 @@
     "github": "https://github.com/MG-Pro/js-pic-project",
     "demo": "https://mg-pro.github.io/js-pic-project/"
   },
-  { "id": 3,
+  {
+    "id": 3,
     "title": "Одностраничное приложение интернет-магазина обуви",
     "image": "store.png",
     "technology": {
@@ -33,7 +36,19 @@
     "github": "https://github.com/MG-Pro/react-store-project",
     "demo": "https://mg-pro.github.io/react-store-project/"
   },
-  { "id": 4,
+  {
+    "id": 4,
+    "title": "Чат-бот",
+    "image": "bot.png",
+    "technology": {
+      "frontend": "JavaScript, JQuery, SCSS"
+    },
+    "description": "В связи с особенностями бэкенда, весь запас фраз бота хранится в HTML. Адаптивная верстка.",
+    "github": "https://github.com/MG-Pro/chatBot_RU",
+    "demo": "https://mg-pro.github.io/chatBot_RU/"
+  },
+  {
+    "id": 5,
     "title": "Простое приложение погоды",
     "image": "weather.png",
     "technology": {
@@ -43,7 +58,19 @@
     "github": "https://github.com/MG-Pro/react-project-weather",
     "demo": "https://mg-pro.github.io/react-project-weather/"
   },
-  { "id": 5,
+  {
+    "id": 6,
+    "title": "Конструктор принтов для футболок",
+    "image": "tshirt.png",
+    "technology": {
+      "frontend": "React JS, CRA"
+    },
+    "description": "Приложение для интернент-магазина футболок. Делает макеты принтов шрифтом из картинок. Возможен выбор шрифтов",
+    "github": "https://github.com/MG-Pro/tshirt-constructor",
+    "demo": "https://mg-pro.github.io/tshirt-constructor/"
+  },
+  {
+    "id": 7,
     "title": "Мячи отскакивающие от стен",
     "image": "balls.png",
     "technology": {
@@ -52,8 +79,29 @@
     "description": "Можно создать бесконечное количество мячей для сравнения производительности.",
     "github": "https://github.com/MG-Pro/balls",
     "demo": "https://mg-pro.github.io/balls/"
+  },
+  {
+    "id": 8,
+    "title": "Простой калькулятор",
+    "image": "calc.png",
+    "technology": {
+      "frontend": "JavaScript"
+    },
+    "description": "Управляется мышью и с клавиатуры",
+    "github": "https://github.com/MG-Pro/calc",
+    "demo": "https://mg-pro.github.io/calc/"
+  },
+  {
+    "id": 9,
+    "title": "Сайт доставки пиццы и роллов",
+    "image": "sushi.png",
+    "technology": {
+      "frontend": "OpenCart, JQuery, PHP, Flexbox"
+    },
+    "description": "Разработка и установка темы оформления, адаптивный дизайн, подключение OpenCart плагинов. Обновление и замена устаревших JQuery плагинов.",
+    "github": "https://github.com/MG-Pro/sushiwoki-new",
+    "demo": "https://sushi-woki.ru/"
   }
-
 ]
 
 
